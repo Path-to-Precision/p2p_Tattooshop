@@ -24,8 +24,8 @@ Well at this point this script has reached the pinnacle of what is available in 
 * [oxmysql](https://github.com/overextended/oxmysql) or [mysql-async](https://github.com/brouznouf/fivem-mysql-async) (if you're using the second one edit the line 24 and 25 in [fxmanifest](https://github.com/Path-to-Precision/p2p_Tattooshop/blob/main/fxmanifest.lua))
 
 ## Installation
-1. Download the script by clicking on the [green button](https://github.com/Path-to-Precision/p2p_Tattooshop/archive/refs/heads/main.zip) on top of this page (<> Code -> Download ZIP) or go check the [releases](https://github.com/Path-to-Precision/p2p_Tattooshop/releases) and download the latest version.
-2. Make sure you start the script (put this in your server.cfg)
+1. Download the script by clicking on the [green button](https://github.com/Path-to-Precision/p2p_Tattooshop/archive/refs/heads/main.zip) on top of this page (<> Code -> Download ZIP).
+2. Make sure you start the script (put this in your server.cfg).
 ```
 ensure p2p_Tattooshop
 ```
