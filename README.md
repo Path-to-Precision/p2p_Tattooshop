@@ -8,7 +8,7 @@ Well at this point this script has reached the pinnacle of what is available in 
 
 ## Video
 * YouTube : lien (in french)
-* Streamable : lien (in english)
+* Streamable : https://streamable.com/1pl06j (in english)
 
 ## Screenshot
 ![menu screenshot](https://cdn.discordapp.com/attachments/1166410187909910528/1169693366192193576/image.png?ex=655654d6&is=6543dfd6&hm=b984854d7c84f4ada7dce1de8e641e22b35b2292410766ef109046d2ac42af06&)
