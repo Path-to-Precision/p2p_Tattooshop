@@ -7,7 +7,7 @@ A simple tattoos shop in RageUI v2 working at 0.00ms with ESX framework.
 Well at this point this script has reached the pinnacle of what is available in the world of free and open-source script. Feel free to propose an addition by submitting a [pull request](https://github.com/Path-to-Precision/p2p_Tattooshop/pulls) on this repository.
 
 ## Video
-* YouTube : lien (in french)
+* YouTube : https://youtu.be/r-6xLl47zG4 (in french)
 * Streamable : https://streamable.com/1pl06j (in english)
 
 ## Screenshot
