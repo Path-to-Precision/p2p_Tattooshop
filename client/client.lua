@@ -196,7 +196,7 @@ function Tattoos()
                 RageUI.IsVisible(subMenu,function()
                     subMenu:UpdateInstructionalButtons(true)
                     LoadCam()
-							DisplayRadar(false)
+			DisplayRadar(false)
                     PointCamAtCoord(cam, GetOffsetFromEntityInWorldCoords(PlayerPedId(), array.cam))
                     for _,tattoo in pairs(allTattoos) do
                         if tattoo.Zone == array.zone then
