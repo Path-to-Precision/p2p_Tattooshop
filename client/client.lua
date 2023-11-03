@@ -33,6 +33,7 @@ end
 subMenu.Closed = function()
     RenderScriptCams(false, true, 1000, true, true)
     DestroyAllCams(true)
+	DisplayRadar(true)
 end
 
 subMenu:AddInstructionButton({[1] = GetControlInstructionalButton(0, Config.key.tournerdroite, 0), [2] = Config.Translate('cam_right')}) 
@@ -195,6 +196,7 @@ function Tattoos()
                 RageUI.IsVisible(subMenu,function()
                     subMenu:UpdateInstructionalButtons(true)
                     LoadCam()
+							DisplayRadar(false)
                     PointCamAtCoord(cam, GetOffsetFromEntityInWorldCoords(PlayerPedId(), array.cam))
                     for _,tattoo in pairs(allTattoos) do
                         if tattoo.Zone == array.zone then
