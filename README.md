@@ -16,6 +16,7 @@ Well at this point this script has reached the pinnacle of what is available in 
 ## Features
 * Easy [configuration](https://github.com/Path-to-Precision/p2p_Tattooshop/blob/main/shared/config.lua)
 * Advanced camera system
+* Change tattoos pacity with slider
 
 ## Requirements
 * [es_extended](https://github.com/esx-framework/esx_core/tree/main/%5Bcore%5D/es_extended)
